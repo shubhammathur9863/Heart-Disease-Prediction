@@ -58,11 +58,7 @@ Heart_Disease_Prediction/
 │── Heart_Disease.py
 │── README.md
 │── requirements.txt
-│── Images/
-│   ├── heatmap.png
-│   ├── boxplot.png
-│   └── histogram.png
-```
+
 
 ## Author
 
