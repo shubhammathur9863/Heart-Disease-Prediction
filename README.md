@@ -57,7 +57,6 @@ Heart_Disease_Prediction/
 │── heart.csv
 │── Heart_Disease.py
 │── README.md
-│── requirements.txt
 
 
 ## Author
